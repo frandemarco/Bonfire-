@@ -1,0 +1,75 @@
+.user-information{
+    background-color: white;
+    Color: black;
+}
+.user-information-fname{
+    position: relative;
+    background-color: white;
+    Color: black;
+    top: -30vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+.user-information-lname{
+    position: relative;
+    background-color: white;
+    Color: black;
+    top: -25vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+.user-information-email{
+    position: relative;
+    background-color: white;
+    Color: black;
+    top: -20vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+
+.user-firstname{
+    position: relative;
+    Color: white;
+    top: -30vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+
+.user-lastname{
+    position: relative;
+    Color: white;
+    top: -26vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+.user-email{
+    position: relative;
+    Color: white;
+    top: -22vh;
+    left: 0vh;
+    width: 50vh;
+    height: 5vh;
+    font-size: 25px;
+    text-align: center;
+}
+
+.profilepic {
+    position: fixed;
+    Top : 10vh;
+    left : 50vh;
+}
